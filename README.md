@@ -1,4 +1,4 @@
-# PD_brain_class
+# Classify PD brain with structural MRI image
 a brainhack 2023 project
 
 **A short description of your idea**
